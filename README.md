@@ -3,7 +3,7 @@
 Directory is a tree that can list files faster in parallel.
 This project was created to list items of a tree faster as possible.
 
-It listed my 380888 directories in yyyyy seconds and 2093396 files in YYYY seconds
+It was able to list my 380888 directories in 16:53 seconds and 2093396 files in XXXX seconds
 
 Was created as part of [MyComparer1](https://github.com/vinils/MyComparer1) project even though its can be used independently
 
