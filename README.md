@@ -23,6 +23,13 @@ public void Mehtod1()
     dir.ListAllParallel(directories.Add, exceptions.Add);
 }
 ```
+or
+```csharp
+    var dir = new System.IO.DirectoryInfo("U:\\");
+    var directories = new List<System.IO.DirectoryInfo>();
+
+    dir.ListAll(directories.Add);
+```
 
 ### List all files in folders and subfolders in parallel
 
